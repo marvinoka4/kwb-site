@@ -39,10 +39,9 @@
                             <label for="form-enquiry" class="form-label"> Enquiry Type *
                                 <select  class="form-select" id="form-enquiry" name="form-enquiry" required>
                                     <option value="General">General Enquiry</option>
-                                    <option value="Personal Injury">Personal Injury</option>
-                                    <option value="Immigration">Immigration</option>
-                                    <option value="Family Law">Family Law</option>
-                                    <option value="Criminal Law">Criminal Law</option>
+                                    <option value="Partnership">Partnership</option>
+                                    <option value="Real Estate">Real Estate</option>
+                                    <option value="Raw Materials">Raw Materials</option>
                                 </select>
                             </label>
                         </div>

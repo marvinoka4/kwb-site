@@ -27,15 +27,15 @@ function dragon_enquiry(){
 
     // email headers
     $headers[] = 'Content-Type: text/html; charset=UTF-8';
-    $headers[] = 'From: Template Argon Website < ' . $admin_email . ' >';
+    $headers[] = 'From: KWBEL Website < ' . $admin_email . ' >';
     $headers[] = 'Reply to: ' . $form_data['form-email'];
-    $headers[] = 'BCC: marvinoka4@gmail.com';
+    $headers[] = 'BCC: info@kwbel.com';
 
     //email recipient
     $send_to = $admin_email;
 
     // subject
-    $subject = "Template Argon [Website] - " . $form_data['form-enquiry'] . " Enquiry - " . $form_data['form-name'];
+    $subject = "TKWBEL [Website] - " . $form_data['form-enquiry'] . " Enquiry - " . $form_data['form-name'];
 
     // message
     $message = '';
