@@ -42,3 +42,22 @@ FOOTER STYLES
 	position: relative;
 	display: inline-block;
 }
+
+.gt_float_switcher .gt-selected .gt-current-lang span.gt-lang-code {
+	font-size: 0.85rem;
+	font-family: 'THICCCBOI-MEDIUM', THICCCBOI, Arial, sans-serif;
+}
+
+.gt_float_switcher .gt_options a {
+	font-size: 0.85rem;
+	font-family: 'THICCCBOI-MEDIUM', THICCCBOI, Arial, sans-serif;
+}
+
+ .gt_float_switcher img {
+	 width: 25px !important;
+	 height: auto;
+ }
+
+.gt_float_switcher .gt-selected .gt-current-lang {
+	padding: 7.5px !important;
+}
