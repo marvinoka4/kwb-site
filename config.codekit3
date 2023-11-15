@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34510",
   "files" : {
+    "\/.github\/workflows\/cpanel.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.github\/workflows\/cpanel.yml",
+      "oF" : 0
+    },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
@@ -540,6 +548,19 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/assets\/images\/fa\/angle-left.svg.png" : {
+      "ft" : 32768,
+      "iS" : 20769,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/fa\/angle-left.svg.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/assets\/images\/fa\/angle-right.svg" : {
       "ft" : 2097152,
@@ -7131,6 +7152,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/images\/fa\/tiktok.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/fa\/tiktok.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/images\/fa\/times-circle-o.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -8051,6 +8082,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/images\/fa\/x.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/fa\/x.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/images\/fa\/xing-square.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -8272,6 +8313,58 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/images\/photos\/copper-mineral.jpg" : {
+      "ft" : 16384,
+      "iS" : 71063,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/copper-mineral.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/gold-bar-coin.jpg" : {
+      "ft" : 16384,
+      "iS" : 107507,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/gold-bar-coin.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/gold-bars.jpg" : {
+      "ft" : 16384,
+      "iS" : 84841,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/gold-bars.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/gold-mineral.jpg" : {
+      "ft" : 16384,
+      "iS" : 129031,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/gold-mineral.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/images\/photos\/graphite-mineral.jpg" : {
       "ft" : 16384,
       "iS" : 142878,
@@ -8337,6 +8430,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/images\/photos\/mining-truck.jpg" : {
+      "ft" : 16384,
+      "iS" : 187926,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/mining-truck.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/images\/photos\/mission-bg.jpg" : {
       "ft" : 16384,
       "iS" : 109912,
@@ -8363,12 +8469,103 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/images\/photos\/pipe-minerals.jpg" : {
+      "ft" : 16384,
+      "iS" : 100549,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/pipe-minerals.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/real-estate-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 117972,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/real-estate-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/real-estate-homes-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 120749,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/real-estate-homes-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/real-estate-homes.jpg" : {
+      "ft" : 16384,
+      "iS" : 175457,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/real-estate-homes.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/images\/photos\/real-estate.jpg" : {
       "ft" : 16384,
       "iS" : 162951,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/images\/photos\/real-estate.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/small-gold-bar-coin.jpg" : {
+      "ft" : 16384,
+      "iS" : 63284,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/small-gold-bar-coin.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/small-gold-bars.jpg" : {
+      "ft" : 16384,
+      "iS" : 80506,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/small-gold-bars.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/small-gold-mineral.jpg" : {
+      "ft" : 16384,
+      "iS" : 108686,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/small-gold-mineral.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -8441,6 +8638,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/images\/photos\/small-mining-truck.jpg" : {
+      "ft" : 16384,
+      "iS" : 105347,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/small-mining-truck.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/images\/photos\/small-mission-bg.jpg" : {
       "ft" : 16384,
       "iS" : 72943,
@@ -8467,6 +8677,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/images\/photos\/small-pipe-minerals.jpg" : {
+      "ft" : 16384,
+      "iS" : 99336,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/small-pipe-minerals.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/small-real-estate-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 136443,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/small-real-estate-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/small-real-estate-homes-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 77651,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/small-real-estate-homes-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/images\/photos\/small-real-estate.jpg" : {
       "ft" : 16384,
       "iS" : 89339,
@@ -8486,6 +8735,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/images\/photos\/small-vision-bg.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/photos\/team-member-bright.jpg" : {
+      "ft" : 16384,
+      "iS" : 79606,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/photos\/team-member-bright.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -8571,6 +8833,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/images\/util\/arrow-right.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/util\/arrow-right.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/images\/util\/blank.gif" : {
       "ft" : 4194304,
       "iS" : 1177,
@@ -8619,6 +8891,16 @@
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/assets\/images\/util\/kwbel-black-white-scaler.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/assets\/images\/util\/kwbel-logo-footer.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/util\/kwbel-logo-footer.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -9123,6 +9405,14 @@
       "oAP" : "\/functions\/menu.php",
       "oF" : 0
     },
+    "\/functions\/theme-settings.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/functions\/theme-settings.php",
+      "oF" : 0
+    },
     "\/functions\/theme-support.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9433,12 +9723,12 @@
       "oAP" : "\/page-templates\/contact-us.php",
       "oF" : 0
     },
-    "\/page-templates\/demo.php" : {
+    "\/page-templates\/gold.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/page-templates\/demo.php",
+      "oAP" : "\/page-templates\/gold.php",
       "oF" : 0
     },
     "\/page-templates\/raw-minerals.php" : {
@@ -9473,20 +9763,28 @@
       "oAP" : "\/page-templates\/team.php",
       "oF" : 0
     },
-    "\/page-templates\/test.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/page-templates\/test.php",
-      "oF" : 0
-    },
     "\/page.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/page.php",
+      "oF" : 0
+    },
+    "\/parts\/content\/call-to-action.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/call-to-action.php",
+      "oF" : 0
+    },
+    "\/parts\/content\/company-summary.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/company-summary.php",
       "oF" : 0
     },
     "\/parts\/content\/contact-form.php" : {
@@ -9497,20 +9795,20 @@
       "oAP" : "\/parts\/content\/contact-form.php",
       "oF" : 0
     },
+    "\/parts\/content\/contact-stack.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/contact-stack.php",
+      "oF" : 0
+    },
     "\/parts\/content\/content-byline.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/parts\/content\/content-byline.php",
-      "oF" : 0
-    },
-    "\/parts\/content\/content-hero-services.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/parts\/content\/content-hero-services.php",
       "oF" : 0
     },
     "\/parts\/content\/content-missing.php" : {
@@ -9529,6 +9827,14 @@
       "oAP" : "\/parts\/content\/content-page-sidebar.php",
       "oF" : 0
     },
+    "\/parts\/content\/core-services.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/core-services.php",
+      "oF" : 0
+    },
     "\/parts\/content\/demo-section1-content.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9545,6 +9851,22 @@
       "oAP" : "\/parts\/content\/get-in-touch.php",
       "oF" : 0
     },
+    "\/parts\/content\/mission-vision.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/mission-vision.php",
+      "oF" : 0
+    },
+    "\/parts\/content\/social-stack.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/social-stack.php",
+      "oF" : 0
+    },
     "\/parts\/content\/summary-about-us.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9553,12 +9875,36 @@
       "oAP" : "\/parts\/content\/summary-about-us.php",
       "oF" : 0
     },
-    "\/parts\/content\/summary-core-areas.php" : {
+    "\/parts\/header\/about-hero.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/parts\/content\/summary-core-areas.php",
+      "oAP" : "\/parts\/header\/about-hero.php",
+      "oF" : 0
+    },
+    "\/parts\/header\/estate-services.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/header\/estate-services.php",
+      "oF" : 0
+    },
+    "\/parts\/header\/gold-services.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/header\/gold-services.php",
+      "oF" : 0
+    },
+    "\/parts\/header\/home-hero.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/header\/home-hero.php",
       "oF" : 0
     },
     "\/parts\/header\/home-page-header.php" : {
@@ -9567,6 +9913,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/parts\/header\/home-page-header.php",
+      "oF" : 0
+    },
+    "\/parts\/header\/minerals-services.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/header\/minerals-services.php",
       "oF" : 0
     },
     "\/parts\/header\/page-header.php" : {
@@ -9607,6 +9961,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/parts\/nav\/off-canvas-nav.php",
+      "oF" : 0
+    },
+    "\/parts\/settings\/argon-theme-settings.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/settings\/argon-theme-settings.php",
       "oF" : 0
     },
     "\/README.md" : {

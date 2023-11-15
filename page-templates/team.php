@@ -25,35 +25,46 @@ get_header(); ?>
             <h2>Management Team</h2>
           </div>
 
-            <div class="medium-4 small-12 cell align-center text-center">
+            <div class="medium-3 small-12 cell align-center text-center">
               <div class="card">
                 <img class="margin-bottom-2" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/team-member-gift.jpg">
                 <div class="card-section">
                   <h4>Gifty S Adrah </h4>
                   <p class="margin-bottom-0">CEO</p>
-                  <p class="margin-bottom-2">Accra Branch, Ghana</p>
+                  <p class="margin-bottom-2">KWBEL Ghana</p>
                 </div>
               </div>
             </div>
 
-            <div class="medium-4 small-12 cell align-center text-center">
+          <div class="medium-3 small-12 cell align-center text-center">
+            <div class="card">
+              <img class="margin-bottom-2" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/team-member-bright.jpg">
+              <div class="card-section">
+                <h4>Bright N Uzoma </h4>
+                <p class="margin-bottom-0">Consultant</p>
+                <p class="margin-bottom-2">KWBEL</p>
+              </div>
+            </div>
+          </div>
+
+            <div class="medium-3 small-12 cell align-center text-center">
               <div class="card">
                 <img class="margin-bottom-2" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/team-member-onyinyechi.jpg">
                 <div class="card-section">
-                  <h4>Mrs Gift Onyinyechi Akujim </h4>
+                  <h4>Gift O Akujim </h4>
                   <p class="margin-bottom-0">Manager</p>
-                  <p class="margin-bottom-2">Abia Branch, Nigeria</p>
+                  <p class="margin-bottom-2">KWBEL Nigeria</p>
                 </div>
               </div>
             </div>
 
-            <div class="medium-4 small-12 cell align-center text-center">
+            <div class="medium-3 small-12 cell align-center text-center">
               <div class="card">
                 <img class="margin-bottom-2" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/team-member-tochukwu.jpg">
                 <div class="card-section">
                   <h4>Tochukwu Ogbonna </h4>
-                  <p class="margin-bottom-0">Graphic Designer/ Media Coordinator</p>
-                  <p class="margin-bottom-2">Abuja Branch, Nigeria</p>
+                  <p class="margin-bottom-0">Media Coordinator</p>
+                  <p class="margin-bottom-2">KWBEL</p>
                 </div>
               </div>
             </div>

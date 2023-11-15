@@ -13,29 +13,29 @@ get_header(); ?>
                 <div class="large-12 medium-12 cell">
                     <p class="text-justify">In the heart of Nigeria's flourishing mineral industry, KWBEL stands tall as a reputable and dynamic player, specializing in the extraction, trade, and analysis of precious metals, with a primary focus on gold and copper. With a commitment to excellence and a dedication to building transparent and trustworthy relationships, KWBEL has emerged as a pivotal force in the mineral market, providing a range of services that cater to the diverse needs of both local miners and global investors.</p>
                 </div>
-                <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+                <div class="large-12 medium-12 cell ">
                     <div class="section-title">
-                        <h3>Buying and Selling of Gold</h3>
+                        <h3>Welcome to KWBEL – Pioneers in Nigeria's Raw Mineral Industry</h3>
                     </div>
-                    <p class="text-justify">At the core of KWBEL's operations lies the seamless buying and selling of gold. With a meticulous approach to sourcing gold from reputable local miners, the company ensures that every transaction adheres to the highest ethical standards. Through a transparent and accountable process, clients are guaranteed the authenticity and quality of the gold they buy.</p>
+                    <p class="text-justify">At KWBEL, we embark on a journey deep into the heart of Nigeria's abundant natural resources, unveiling the raw beauty and potential of its minerals. As industry leaders in raw mineral mining and sales, we take pride in our commitment to sustainable practices, ethical sourcing, and delivering unparalleled quality to our global clientele.</p>
                 </div>
-                <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+                <div class="large-12 medium-12 cell ">
                     <div class="section-title">
-                        <h3>Instant Bank Transfer</h3>
+                        <h3>A Tapestry of Riches: Nigeria's Untapped Mineral Wealth</h3>
                     </div>
-                    <p class="text-justify">Recognizing the need for efficiency in financial transactions, KWBEL has implemented an instant bank transfer system. This feature not only expedites the payment process but also provides clients with the confidence that their financial transactions are conducted securely and promptly. This commitment to swift and reliable financial dealings further solidifies KWBEL's standing as a trusted partner in the mineral trade.</p>
+                    <p class="text-justify">Nigeria, often referred to as the "Giant of Africa," boasts a diverse landscape that extends beyond its vibrant cultures and bustling cities. Nestled within its soils lie an extraordinary array of raw minerals, waiting to be unearthed. At KWBEL, we specialize in harnessing this wealth responsibly, ensuring that every extraction contributes to the prosperity of the nation and its people.</p>
                 </div>
-                <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+                <div class="large-12 medium-12 cell ">
                     <div class="section-title">
-                        <h3>Transparency and Trust</h3>
+                        <h3>Our Expertise: Meticulous Raw Mineral Mining</h3>
                     </div>
-                    <p class="text-justify">In an industry where transparency can be a rare commodity, KWBEL places it at the forefront of its business model. The company operates with full disclosure, ensuring that clients have access to all relevant information regarding their transactions. This commitment to transparency fosters trust, establishing KWBEL as a reliable and accountable player in the gold and copper market.</p>
+                    <p class="text-justify">Behind every ounce of raw mineral we offer, there is a meticulous process that defines our commitment to excellence. Our mining operations are conducted with the utmost precision, utilizing cutting-edge technology and adhering to stringent environmental standards. From exploration to extraction, we prioritize sustainability, minimizing our ecological footprint while maximizing the potential of Nigeria's mineral-rich deposits.</p>
                 </div>
-                <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+                <div class="large-12 medium-12 cell ">
                   <div class="section-title">
-                    <h3>Good Relationship Between Buyers and Sellers</h3>
+                    <h3>The Crown Jewels of Nigeria: Our Mineral Portfolio</h3>
                   </div>
-                  <p class="text-justify">Building and maintaining strong relationships between buyers and sellers is a cornerstone of KWBEL's ethos. The company recognizes the importance of communication and collaboration to ensure that both parties benefit from the transaction. By fostering an environment of mutual respect and understanding, KWBEL creates a harmonious marketplace where everyone involved feels valued and satisfied.</p>
+                  <p class="text-justify">KWBEL proudly presents a diverse portfolio of raw minerals, each telling a unique geological story. Whether you seek the glittering allure of gold, the strength of iron ore, the brilliance of gemstones, or the versatility of limestone, our offerings are as varied as Nigeria's geological wonders. Explore the untapped potential of the nation through our carefully curated selection of premium raw minerals.</p>
                 </div>
             </div>
         </div>
@@ -59,33 +59,33 @@ get_header(); ?>
 
     <div class="grid-container relative full ">
         <div class="grid-container">
-            <div class="grid-x grid-padding-x padding-vertical-4 align-middle">
-                <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+            <div class="grid-x grid-padding-x padding-vertical-4 large-padding-bottom-10 align-middle">
+                <div class="large-12 medium-12 cell ">
                     <div class="section-title">
-                        <h3>Good Relationship with Local Miners</h3>
+                        <h3>Ethical Sourcing: A Pillar of Our Commitment</h3>
                     </div>
-                    <p class="text-justify">KWBEL understands the significance of local miners in the supply chain. To promote sustainable and responsible mining practices, the company has developed robust relationships with local miners. By working closely with these communities, KWBEL not only ensures a steady supply of high-quality minerals but also contributes to the socio-economic development of the regions in which it operates.</p>
+                    <p class="text-justify">Beyond the allure of our minerals, KWBEL places ethics at the core of our operations. We are dedicated to responsible sourcing, ensuring that every mineral we extract is done with respect for local communities, biodiversity, and the environment. Our commitment to ethical practices is a testament to our belief that sustainable business is the key to unlocking Nigeria's long-term mineral prosperity.</p>
                 </div>
-                <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+                <div class="large-12 medium-12 cell ">
                     <div class="section-title">
-                        <h3>Best Analytical Testing</h3>
+                        <h3>Global Reach: Connecting Nigeria's Minerals to the World</h3>
                     </div>
-                    <p class="text-justify">Quality assurance is non-negotiable in the mineral industry. KWBEL invests in state-of-the-art analytical testing procedures to guarantee the purity and quality of the gold and copper it trades. Rigorous testing ensures that clients receive minerals that meet or exceed industry standards, reinforcing KWBEL's commitment to delivering excellence in every transaction.</p>
+                    <p class="text-justify">As a global player in the raw mineral industry, KWBEL has established a robust network that extends far beyond the borders of Nigeria. Our minerals find their way into diverse industries, contributing to the development of economies and the creation of innovative products worldwide. Join us in building bridges between Nigeria's mineral wealth and the global market.</p>
                 </div>
-              <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+              <div class="large-12 medium-12 cell ">
                 <div class="section-title">
-                  <h3>Good Price Updates for Both Standard and Local Markets</h3>
+                  <h3>Innovation in Every Grain: Our Processing Facilities</h3>
                 </div>
-                <p class="text-justify">Staying abreast of market trends is crucial in the volatile world of minerals. KWBEL provides regular and timely updates on gold and copper prices, catering to both standard international markets and local markets. This ensures that clients are well-informed, enabling them to make sound decisions in a rapidly evolving industry.</p>
+                <p class="text-justify">At KWBEL, innovation is not confined to the mining sites; it extends into our state-of-the-art processing facilities. Our commitment to delivering top-tier raw minerals is complemented by our cutting-edge techniques that ensure the highest quality standards. From sorting to grading, we leave no stone unturned in guaranteeing that our minerals meet and exceed the expectations of our discerning clientele.</p>
               </div>
-              <div class="large-12 medium-12 cell small-order-2 medium-order-1">
+              <div class="large-12 medium-12 cell ">
                 <div class="section-title">
-                  <h3>Good Discounts</h3>
+                  <h3>Partnership for Progress: Collaborate with KWBEL</h3>
                 </div>
-                <p class="text-justify">Recognizing the importance of fostering long-term relationships, KWBEL offers competitive pricing and attractive discounts to its clients. These discounts are not only a testament to the company's commitment to customer satisfaction but also serve as an incentive for continued collaboration. KWBEL believes in sharing the benefits of success with its clients, further strengthening the bonds forged through its exceptional services.</p>
+                <p class="text-justify">KWBEL invites you to join hands in unlocking the full potential of Nigeria's raw mineral wealth. Whether you are a manufacturer seeking premium materials or an investor looking for a responsible partner in the mining industry, our doors are open for collaboration. Together, let's build a sustainable future that rests on the bedrock of Nigeria's natural riches.</p>
               </div>
-              <div class="large-12 medium-12 cell small-order-2 medium-order-1">
-                <p class="text-justify">In the competitive landscape of Nigeria's mineral industry, KWBEL emerges as a beacon of reliability, transparency, and excellence. Through a holistic approach that encompasses responsible sourcing, efficient transactions, and strong relationships, the company has carved a niche for itself in the gold and copper market. As KWBEL continues to evolve and adapt to the ever-changing dynamics of the industry, its commitment to service excellence remains unwavering, positioning it as a key player in Nigeria's mineral trade.</p>
+              <div class="large-12 medium-12 cell ">
+                <p class="text-justify">As you explore KWBEL's website, we invite you to delve into the captivating world of Nigeria's raw mineral wealth. Each click takes you closer to the heart of our commitment – a commitment to excellence, sustainability, and ethical practices. Join us in uncovering the treasures that lie beneath the surface and discover why KWBEL is your premier destination for raw mineral mining and sales in Nigeria.</p>
               </div>
             </div>
         </div>

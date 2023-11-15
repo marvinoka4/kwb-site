@@ -182,6 +182,15 @@ ol.numbered-large {
   font-size: $small-font-size;
 }
 
+.top-bar-text {
+  font-size: 12px !important;
+}
+
+.copyright {
+  text-decoration: none;
+  cursor: none;
+}
+
 .p-prime {
   color: get-color(light) !important;
   font-size: rem-calc(15px);
@@ -205,15 +214,28 @@ ol.numbered-large {
   font-family: 'THICCCBOI-MEDIUM', THICCCBOI, Arial, sans-serif;
   letter-spacing: 1px;
 }
+
 .phone-no a, .phone-no a:link, .phone-no a:visited, .phone-no a:hover, .phone-no a:active, .phone-no a:focus {
   text-decoration: transparent !important;
   color: get-color(light) !important;
   font-family: 'THICCCBOI-MEDIUM', THICCCBOI, Arial, sans-serif;
   letter-spacing: 1px;
 }
+
 a[href^="tel"] {
   text-decoration: transparent !important;
   color: get-color(light) !important;
   font-family: 'THICCCBOI-MEDIUM', THICCCBOI, Arial, sans-serif;
   letter-spacing: 1px;
+}
+.menu.vertical.arrow li a:after {
+  content: "";
+  background-image: url(../../images/util/arrow-right.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 10px;
+  height: 10px;
+  right: -7px;
+  position: relative;
+  display: inline-block;
 }

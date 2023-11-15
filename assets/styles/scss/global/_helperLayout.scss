@@ -85,6 +85,16 @@
 	padding-bottom: 10px;
 }
 
+.service-card {
+	border: solid 1px get-color(medium-grey);
+	background: get-color(light-grey);
+	margin-bottom: 1rem;
+}
+
+.service-card-content {
+	padding: 2rem 0.5rem;
+}
+
 .radius {
   @include border-radius;
 }

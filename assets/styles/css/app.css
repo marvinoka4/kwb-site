@@ -10226,6 +10226,15 @@ ol.numbered-large li:before {
   font-size: 80%;
 }
 
+.top-bar-text {
+  font-size: 12px !important;
+}
+
+.copyright {
+  text-decoration: none;
+  cursor: none;
+}
+
 .p-prime {
   color: #fff !important;
   font-size: 0.9375rem;
@@ -10261,6 +10270,18 @@ a[href^=tel] {
   color: #fff !important;
   font-family: "THICCCBOI-MEDIUM", THICCCBOI, Arial, sans-serif;
   letter-spacing: 1px;
+}
+
+.menu.vertical.arrow li a:after {
+  content: "";
+  background-image: url(../../images/util/arrow-right.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 10px;
+  height: 10px;
+  right: -7px;
+  position: relative;
+  display: inline-block;
 }
 
 .panel-image {
@@ -10355,6 +10376,16 @@ a[href^=tel] {
   z-index: -1;
   display: block;
   padding-bottom: 10px;
+}
+
+.service-card {
+  border: solid 1px #ccc;
+  background: #f3f3f9;
+  margin-bottom: 1rem;
+}
+
+.service-card-content {
+  padding: 2rem 0.5rem;
 }
 
 .radius {
@@ -11437,9 +11468,8 @@ FOOTER STYLES
 *********************/
 .footer {
   clear: both;
-  margin-top: 2em;
   background: #000;
-  padding: 1px 0 1px;
+  padding: 5rem 0 4rem;
 }
 
 .text-small {
@@ -11450,6 +11480,10 @@ FOOTER STYLES
   color: #fff;
   font-family: "THICCCBOI-BOLD", THICCCBOI, Arial, sans-serif;
   margin-bottom: 0;
+}
+
+.footer-menu-link a {
+  padding: 0.7rem 0 !important;
 }
 
 .footer-link {

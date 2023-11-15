@@ -3,9 +3,8 @@ FOOTER STYLES
 *********************/
 .footer {
 	clear: both;
-	margin-top: 2em;
 	background: get-color(dark);
-	padding: 1px 0 1px;
+	padding: 5rem 0 4rem;
 }
 
 .text-small {
@@ -16,6 +15,10 @@ FOOTER STYLES
 	color: get-color(light);
 	font-family: $header-font-family;
 	margin-bottom: 0;
+}
+
+.footer-menu-link a {
+	padding: 0.7rem 0 !important;
 }
 
 .footer-link {
