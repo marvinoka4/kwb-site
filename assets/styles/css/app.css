@@ -10226,10 +10226,6 @@ ol.numbered-large li:before {
   font-size: 80%;
 }
 
-.top-bar-text {
-  font-size: 12px !important;
-}
-
 .copyright {
   text-decoration: none;
   cursor: none;
@@ -10270,18 +10266,6 @@ a[href^=tel] {
   color: #fff !important;
   font-family: "THICCCBOI-MEDIUM", THICCCBOI, Arial, sans-serif;
   letter-spacing: 1px;
-}
-
-.menu.vertical.arrow li a:after {
-  content: "";
-  background-image: url(../../images/util/arrow-right.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 10px;
-  height: 10px;
-  right: -7px;
-  position: relative;
-  display: inline-block;
 }
 
 .panel-image {
@@ -11463,6 +11447,10 @@ header.header .dropdown .submenu {
   width: 100%;
 }
 
+.top-bar-text {
+  font-size: 12px !important;
+}
+
 /*********************
 FOOTER STYLES
 *********************/
@@ -11493,6 +11481,18 @@ FOOTER STYLES
 .footer-link:hover {
   color: #ffcc00;
   margin-bottom: 0;
+}
+
+.menu.vertical.arrow li a:after {
+  content: "";
+  background-image: url(../../images/util/arrow-right.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 10px;
+  height: 10px;
+  right: -7px;
+  position: relative;
+  display: inline-block;
 }
 
 .hero {

@@ -29,3 +29,16 @@ FOOTER STYLES
 		margin-bottom: 0;
 	}
 }
+
+
+.menu.vertical.arrow li a:after {
+	content: "";
+	background-image: url(../../images/util/arrow-right.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 10px;
+	height: 10px;
+	right: -7px;
+	position: relative;
+	display: inline-block;
+}
