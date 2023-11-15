@@ -71,7 +71,7 @@ get_header(); ?>
 
 
           <div class="large-12 cell text-center padding-2">
-            <h2>Patron</h2>
+            <h2>Matron</h2>
           </div>
 
 

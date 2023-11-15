@@ -8,4 +8,8 @@
 </ul>
 
 <h4 class="margin-top-1 color-white"><?php echo get_option('phone') ?> </h4>
+
+<h4 class="color-white">+973 3349 4892</h4>
+
+
 <p class="color-white"><?php echo get_option('email') ?> </p>
