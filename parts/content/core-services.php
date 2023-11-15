@@ -34,7 +34,7 @@
                             <div class="card-section service-card-content">
                                 <h4>Gold </h4>
 
-                                <p class="margin-bottom-2">Nigeria's real estate sector is experiencing a surge in growth, attracting investors, developers, and individuals seeking lucrative opportunities. KWBEL engages with licensed professionals who bring expertise and legitimacy to the industry.</p>
+                                <p class="margin-bottom-2">In recent years, the Nigerian gold mining industry has witnessed a resurgence, and at the forefront of this renaissance is KWBEL, a pioneering force in golD. To navigate the challenges of extracting gold , KWBEL employs cutting-edge mining technologies.</p>
 
                                 <div class="text-right card-divider">
                                     <a href="<?php echo get_the_permalink(52); ?>" class="button primary callout-button align-right">Learn More <i class="uil uil-arrow-right"></i></a>

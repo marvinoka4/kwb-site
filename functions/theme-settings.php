@@ -13,6 +13,7 @@ function the_argon_theme_settings_sections() {
     register_setting('contact-info-group', 'x');
     register_setting('contact-info-group', 'linkedin');
     register_setting('contact-info-group', 'instagram');
+    register_setting('contact-info-group', 'whatsapp');
     register_setting('contact-info-group', 'youtube');
 
     add_settings_section('theme-index-options', 'Contact Information', 'theme_contact_options', 'argon-theme-settings');
@@ -25,6 +26,7 @@ function the_argon_theme_settings_sections() {
     add_settings_field('x-link', 'X URL', 'x_callback', 'argon-theme-settings', 'theme-index-options');
     add_settings_field('linkedin-link', 'LinkedIn URL', 'linkedin_callback', 'argon-theme-settings', 'theme-index-options');
     add_settings_field('instagram-link', 'Instagram URL', 'instagram_callback', 'argon-theme-settings', 'theme-index-options');
+    add_settings_field('whatsapp-link', 'WhatsApp URL', 'whatsapp_callback', 'argon-theme-settings', 'theme-index-options');
     add_settings_field('youtube-link', 'YouTube URL', 'youtube_callback', 'argon-theme-settings', 'theme-index-options');
 }
 
@@ -78,6 +80,11 @@ function linkedin_callback() {
 function instagram_callback() {
     $preInstagram = get_option('instagram');
     echo '<input type="text" name="instagram" placeholder="Instagram URL" value="'.$preInstagram.'" />';
+}
+
+function whatsapp_callback() {
+    $preWhatsApp = get_option('whatsapp');
+    echo '<input type="text" name="whatsapp" placeholder="WhatsApp URL" value="'.$preWhatsApp.'" />';
 }
 
 function youtube_callback() {

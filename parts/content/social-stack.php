@@ -5,6 +5,9 @@
   <a href="<?php echo get_option('instagram') ?>" target="_blank" title="Instagram">
     <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/instagram.svg" width="22" alt="Instagram" /></a>
   &nbsp;&nbsp;&nbsp;
+  <a href="<?php echo get_option('whatsapp') ?>" target="_blank" title="WhatsApp">
+    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/whatsapp.svg" width="22" alt="WhatsApp" /></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="<?php echo get_option('linkedin') ?>" target="_blank" title="LinkedIn">
     <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/linkedin.svg" width="22" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;

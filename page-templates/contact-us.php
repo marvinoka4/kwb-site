@@ -22,7 +22,7 @@ get_header(); ?>
                 <div class="large-6 medium-12 cell align-middle">
                     <div class="primary callout color-white no-link-style">
                         <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/mobile-phone.svg" alt="Phone">Phone</h4>
-                      <a href="tel:+2348160593370" class="phone-no"><p class="p-phone">+234 816 059 3370</p></a>
+                      <a href="tel:+2348160593370" class="phone-no"><p class="p-phone">+234 816 059 3370</p></a><a href="tel:+97333494892" class="phone-no"><p class="p-phone">+973 3349 4892</p></a>
                     </div>
                 </div>
                 <div class="large-6 medium-12 cell">
