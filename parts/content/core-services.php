@@ -37,7 +37,7 @@
                                 <p class="margin-bottom-2">In recent years, the Nigerian gold mining industry has witnessed a resurgence, and at the forefront of this renaissance is KWBEL, a pioneering force in golD. To navigate the challenges of extracting gold , KWBEL employs cutting-edge mining technologies.</p>
 
                                 <div class="text-right card-divider">
-                                    <a href="<?php echo get_the_permalink(52); ?>" class="button primary callout-button align-right">Learn More <i class="uil uil-arrow-right"></i></a>
+                                    <a href="<?php echo get_the_permalink(64); ?>" class="button primary callout-button align-right">Learn More <i class="uil uil-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
