@@ -11709,6 +11709,17 @@ header .custom-nav-menu .menu-item-has-children .sub-menu > .menu-item-has-child
   padding: 0.5rem 0;
 }
 
+.category-text {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #ff0000;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  letter-spacing: 1px;
+  cursor: default;
+}
+
 @media (min-width: 576px) {
   .progress-wrap.active-progress {
     opacity: 1;

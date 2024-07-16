@@ -2,13 +2,18 @@
 /**
  * The template for displaying all pages
  *
- * This is the template that displays all pages by default.
+ * For more info: https://developer.wordpress.org/themes/basics/template-hierarchy/
  */
+
+//global $wp_query;
+//$wp_query->set_404();
+//status_header( 404 );
+//get_template_part( 404 ); exit();
 
 get_header();
 
-get_template_part('/parts/header/header-page');
+get_template_part('/parts/loop/loop-header'); ?>
 
-get_template_part('/parts/content/content-page-sidebar');
+<?php get_template_part('parts/loop/loop-archive'); ?>
 
- get_footer(); ?>
+<?php get_footer(); ?>

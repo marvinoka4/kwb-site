@@ -9,6 +9,22 @@
   ],
   "creatorBuild" : "34510",
   "files" : {
+    "\/.ftp-deploy-sync-state.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.ftp-deploy-sync-state-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
+    "\/.ftpquota" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.ftpquota",
+      "oF" : 0
+    },
     "\/.github\/workflows\/cpanel.yml" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9162,6 +9178,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/assets\/styles\/scss\/layout\/_blog.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/assets\/styles\/scss\/layout\/_blog.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/assets\/styles\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -9363,6 +9394,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/comments.php",
+      "oF" : 0
+    },
+    "\/error_log" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/error_log",
       "oF" : 0
     },
     "\/footer.php" : {
@@ -9715,6 +9754,14 @@
       "oAP" : "\/page-templates\/about-us.php",
       "oF" : 0
     },
+    "\/page-templates\/blog.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/page-templates\/blog.php",
+      "oF" : 0
+    },
     "\/page-templates\/contact-us.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9929,6 +9976,30 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/parts\/header\/page-header.php",
+      "oF" : 0
+    },
+    "\/parts\/loop\/loop-archive.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/loop\/loop-archive.php",
+      "oF" : 0
+    },
+    "\/parts\/loop\/loop-content.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/loop\/loop-content.php",
+      "oF" : 0
+    },
+    "\/parts\/loop\/loop-header.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/loop\/loop-header.php",
       "oF" : 0
     },
     "\/parts\/loop\/loop-page.php" : {
