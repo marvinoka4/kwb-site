@@ -25,6 +25,53 @@ get_header(); ?>
             <h2>Management Team</h2>
           </div>
 
+          <div class="grid-x grid-margin-x grid-margin-y align-middle align-center ">
+
+            <div class="medium-12 small-12 cell align-center text-center">
+              <div class="card">
+                <img class="margin-bottom-2" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/team-member-kersten.jpg">
+                <div class="card-section">
+                  <h4>Kersten Wolf-Bernhard</h4>
+                  <p class="margin-bottom-0">Chairman of our Supervisory Board</p>
+                  <p class="margin-bottom-0">KWBEL Ghana</p>
+                  <a data-open="bernhard" class="margin-bottom-2 primary">Read Bio <i class="uil uil-info-circle"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="reveal" id="bernhard" data-reveal>
+              <div class="grid-x grid-margin-x align-middle align-center">
+                <div class="medium-4 cell">
+                  <div class="profile-photo">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/team-member-kersten.jpg" alt="Gifty" style="padding-top: 30px">
+                  </div>
+                </div>
+                <div class="medium-10 cell text-center">
+                  <p class="margin-bottom-0"><b>Kersten Wolf-Bernhard</b></p>
+
+                  <p class="text-small margin-bottom-0">Chairman of our Supervisory Board</p>
+                  <p class="text-small margin-bottom-0">Distinguished Professor of Economics</p>
+                  <p class="text-small margin-bottom-0">CEO at Great World Bridge Shanghai Limited, China.</p>
+                  <hr>
+                  <p>Wolf-Bernhard was born in Germany into a global business because of his father. He was Head of the Central Sourcing Department at SIEMENS Headquarters in Munich, one of Germany's oldest business powerhouses. </p>
+                  <p>He learned Banking Business at Deutsche Bank AG, studied Economics at a Bavarian University, and finished with an Academic High Degree. For the following 27 years, he worked at the global No. 1 Trade Credit Insurance as a sales force, as a Regional Director, and as a Member of the Executive Management at the headquarters in Hamburg. In his last seven years, he managed the development of this banking–insurance business in Asia–Pacific, where he set up and managed as Chairman 10 start-up branches, partly as Joint Ventures in all major Asian Countries, mainly in Hong Kong, Singapore, Mumbai, Tokyo, Tianjin (China). </p>
+                  <p>Thereafter, he started his academic career. He was appointed and certified Professor of Economics at 5 Elite Universities in China, namely in Tianjin, Fuzhou (Fujian), Shanghai, Hangzhou (Shandong), and Beijing. He also lectured at Hamburg, MBA faculty and Sydney University, focusing on International Finance, Global Strategy Management and International Enterprise Risk Management. In total, over 15.000 students at all 20 Universities he has visited have learned how to survive in a global business world. </p>
+                  <p>Apart from lecturing, he acted as an International Consultant and geopolitical Advisor for local Companies, whether SMEs, MNCs, or even Government Ministries. </p>
+                  <p>From 2015 until now, he has managed the International Trade and Investment Structuring Business as CEO for Shanghai-based Great World Bridge Limited. Since 2007, we have been strong in Africa, Asia, South America, China and its neighbouring countries, plus, of course, Central and Eastern Europe. We focus on all sorts of Commodity Trade. Our network at Chinese MNCs and Government entities in China is outstanding due to our shareholder, Mme ZENG, Rong (Belinda). </p>
+                  <p>His target as Chairman of the Supervisory Board of Kings World Business Empire Limited is to advise the Management on all strategic issues and how to manage and grow in a sustainable, safe, and profitable way. He knows how to start at the “scratch level” and handle the Top Management challenges. </p>
+                  <p class="margin-bottom-3">He has visited or lived in over 120 countries worldwide, speaks several languages, and understands their respective cultures and norms and how to balance them to achieve a long-lasting positive result where all partners feel happy.
+                  </p>
+                </div>
+              </div>
+              <button class="close-button" data-close aria-label="Close modal" type="button">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+
+          </div>
+
+          <div class="grid-x grid-margin-x grid-margin-y align-middle align-center  margin-top-2">
+
             <div class="medium-3 small-12 cell align-center text-center">
               <div class="card">
                 <img class="margin-bottom-2" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/team-member-gift.jpg">
@@ -155,6 +202,9 @@ get_header(); ?>
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
+
+
+        </div>
 
 
           <div class="large-12 cell text-center padding-2">
